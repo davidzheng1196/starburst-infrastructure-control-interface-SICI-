@@ -18,6 +18,7 @@ Instead of application teams deploying and managing Starburst clusters within th
 - Automated provisioning via REST API
 
 SICI acts as the **control plane** for all Starburst deployments.
+By centralizing deployment, configuration, and lifecycle management, SICI transforms Starburst from an IaaS offering into a SaaS-like, fully managed service—delivering standardized, self-service query capabilities for teams.
 
 ---
 
