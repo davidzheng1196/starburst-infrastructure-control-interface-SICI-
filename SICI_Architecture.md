@@ -75,14 +75,17 @@ Application teams do NOT:
 - Modify Starburst config
 - Adjust IAM policies
 - Install plugins
+- Manage reverse proxy and http request body modification
 
 The Data Platform Team:
 
-- Owns infrastructure
+- Owns infrastructure(clusters and related resources)
 - Owns IAM templates
 - Owns configuration
 - Owns upgrades
 - Owns compliance posture
+- Owns role based access control
+- Owns usage telemetry for billing purposes
 
 ---
 
